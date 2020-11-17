@@ -2,7 +2,7 @@
 ---
 ### Education
 
-B.S. Chemical Engineering from University of Connecticut, 2014
+B.S. in Chemical Engineering, University of Connecticut, 2014
 
 ---
 ### Work Experience
