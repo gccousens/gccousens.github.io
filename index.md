@@ -7,8 +7,7 @@ B.S. Chemical Engineering from University of Connecticut, 2014
 ---
 ### Work Experience
 
-[My LinkedIn Profile]
-(https://www.linkedin.com/in/ginnycousens/)
+[My LinkedIn Profile](https://www.linkedin.com/in/ginnycousens/)
 
 
 ---
