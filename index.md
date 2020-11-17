@@ -1,24 +1,14 @@
 ## Bio
-
 ---
 ### Education
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+B.S. Chemical Engineering from University of Connecticut, 2014
 
 ---
 ### Work Experience
 
-
----
-### Recent Projects
-
-
-- [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
-
----
-
-
+[My LinkedIn Profile]
+(https://www.linkedin.com/in/ginnycousens/)
 
 
 ---
